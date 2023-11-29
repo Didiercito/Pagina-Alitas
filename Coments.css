@@ -1,0 +1,19 @@
+.conteiner-coments{
+    display: flex;
+    align-items: center;
+}
+
+.sub-conteiner{
+    flex: 1;
+    margin-right: 16px;
+}
+
+.img-coments{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.sub-conteiner2{
+    flex: 2;
+}

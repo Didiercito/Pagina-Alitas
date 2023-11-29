@@ -1,0 +1,35 @@
+/* Header.css */
+
+.nav{
+    background-color: bisque;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-center {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navbar-icons {
+    display: flex;
+    margin-left: 100px;
+  }
+  
+  .icon {
+    height: 30px;
+    margin-left: 10px; /* Espacio entre las imágenes de los iconos */
+  }
+  
+  
+  .logo {
+    height: 120px; /* Ajusta la altura según tus necesidades */
+    margin-right: 10px; /* Ajusta el margen derecho según tus necesidades */
+    
+  }
+  
